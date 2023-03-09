@@ -1,7 +1,7 @@
 {
     "gameVersion": "20180718",
     "gameVersionCode": 1,
-    "helperVersionCode": 2,
+    "helperVersionCode": 1,
     "packageTimestamp": 1678377600,
     "description": "首个发布版本，没什么好说的",
     "releaseUrl": "https://www.linuxgame.cn/okami-hd-wine"
