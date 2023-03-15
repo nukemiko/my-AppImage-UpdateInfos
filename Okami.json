@@ -1,6 +1,7 @@
 {
     "gameVersion": "20180718",
     "gameVersionCode": 2,
+    "helperVersion": "1.0",
     "helperVersionCode": 2,
     "packageTimestamp": 1678896786,
     "description": "1、完全重写了内置启动器\n2、更新了游戏文件\n3、添加了俄语、意大利语、波兰语、西班牙语翻译补丁",
